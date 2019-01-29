@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="serenitybdd.tests.AirbnbSignUp" skipped="0" tests="1" time="25.76" timestamp="2019-01-29 02:57:12"><testcase classname="serenitybdd.tests.AirbnbSignUp" name="Verify the signup at the AirBnb portal"/></testsuite>
